@@ -334,6 +334,7 @@
 		/datum/sprite_accessory/hair/head/unkemptcurls,
 		/datum/sprite_accessory/hair/head/viper,
 		/datum/sprite_accessory/hair/head/shrinepriestess,
+		/datum/sprite_accessory/hair/head/tangled_curls,
 		)
 
 /datum/customizer/bodypart_feature/hair/head/humanoid/triton
