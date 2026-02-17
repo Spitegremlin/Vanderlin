@@ -345,7 +345,8 @@
 		/datum/sprite_accessory/hair/head/dualtwists,
 		/datum/sprite_accessory/hair/head/twistbun,
 		/datum/sprite_accessory/hair/head/longestcurls,
-		/datum/sprite_accessory/hair/head/sidebraid
+		/datum/sprite_accessory/hair/head/sidebraid,
+		/datum/sprite_accessory/hair/head/wild_fluff
 		)
 
 /datum/customizer/bodypart_feature/hair/head/humanoid/triton
